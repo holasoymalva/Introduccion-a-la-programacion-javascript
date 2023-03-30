@@ -75,5 +75,5 @@ Thank you for reading. <3
 [sass]: https://sass-lang.com
 [imgl]: https://imagesloaded.desandro.com
 [in-link]: https://www.linkedin.com/in/martin-manriquez-899877177/
-[ig-link]: https://www.instagram.com/malvabombom/
-[tt-link]: https://www.tiktok.com/@malvabombom
+[ig-link]: https://www.instagram.com/holasoymalva/
+[tt-link]: https://www.tiktok.com/@holasoymalva
