@@ -49,7 +49,7 @@
 
 ## Author
 
-Created by Leon Martin ([Malvabombom](https://github.com/malvabombom)).
+Created by Leon Martin ([Malva](https://github.com/holasoymalva)).
 
 [![in]][in-link] [![ig]][ig-link] [![tt]][tt-link]
 
