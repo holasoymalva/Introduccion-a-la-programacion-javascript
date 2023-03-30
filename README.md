@@ -1,4 +1,4 @@
-# Introduccion a la programación en Javascript
+# Logica de programación en Javascript
 
 ## Indice
 
